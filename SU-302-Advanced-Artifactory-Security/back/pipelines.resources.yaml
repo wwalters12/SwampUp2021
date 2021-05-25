@@ -4,7 +4,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: github
-      path: chanti529/SwampUp2021
+      path: wwalters12/SwampUp2021
       branches:
         include: main
 
